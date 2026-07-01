@@ -1,0 +1,6 @@
+{
+  "name": "The Branded Hub",
+  "description": "Premium multi-brand streetwear and sneaker destination in Bangalore, India with offline stores in Jayanagar and BTM Layout. Curated hoodies, oversized tees, Air Jordans, and urban accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
